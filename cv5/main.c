@@ -39,7 +39,19 @@ void editChar(stringWithHistory* string, char newChar, int position) {
     }
 }
 
+void alloc(char** array) {
+    *array = (char*)malloc(10*sizeof(char));
+}
+
 int main() {
+
+    int i = 10;
+    char* array;
+    alloc(&array);
+    return 0;
+}
+
+int oldmain() {
     stringWithHistory string;
     initString(&string, 10);
     setString(&string, "Pirko");
