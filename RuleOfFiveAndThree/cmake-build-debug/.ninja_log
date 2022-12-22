@@ -1,0 +1,6 @@
+# ninja log v5
+3	357	6932266481410792	CMakeFiles/RuleOfFiveAndThree.dir/MainDriver.cpp.obj	e83f10f734a4cdab
+3	353	6932267221371552	CMakeFiles/RuleOfFiveAndThree.dir/RuleOfThreeAndFive.cpp.obj	e978d76ddcf8ef39
+353	464	6932267222441533	RuleOfFiveAndThree.exe	b49d069aab670d57
+3	357	6932271726139881	CMakeFiles/RuleOfFiveAndThree.dir/MainDriver.cpp.obj	e83f10f734a4cdab
+357	443	6932271726959861	RuleOfFiveAndThree.exe	b49d069aab670d57

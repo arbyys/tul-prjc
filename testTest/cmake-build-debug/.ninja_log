@@ -1,0 +1,17 @@
+# ninja log v5
+3	327	6931844526855037	CMakeFiles/testTest.dir/main.cpp.obj	9ea4c535687ddfc3
+327	421	6931844527735037	testTest.exe	72b868ecc72d7eaf
+2	325	6931844390435058	CMakeFiles/testTest.dir/Block.cpp.obj	a339a40a9a4aec77
+1	166	6931907300120111	build.ninja	3ff6f07eaecc3054
+3	426	6932258430968909	CMakeFiles/testTest.dir/main.cpp.obj	9ea4c535687ddfc3
+10	443	6932258431188925	CMakeFiles/testTest.dir/Block.cpp.obj	a339a40a9a4aec77
+443	615	6932258432878905	testTest.exe	72b868ecc72d7eaf
+4	331	6932258641368903	CMakeFiles/testTest.dir/main.cpp.obj	9ea4c535687ddfc3
+331	422	6932258642248900	testTest.exe	72b868ecc72d7eaf
+5	290	6932283527663865	CMakeFiles/testTest.dir/Block.cpp.obj	a339a40a9a4aec77
+2	367	6932283528433868	CMakeFiles/testTest.dir/main.cpp.obj	9ea4c535687ddfc3
+367	481	6932283529523859	testTest.exe	72b868ecc72d7eaf
+3	371	6932283591203871	CMakeFiles/testTest.dir/main.cpp.obj	9ea4c535687ddfc3
+371	461	6932283592093845	testTest.exe	72b868ecc72d7eaf
+2	296	6932283765413847	CMakeFiles/testTest.dir/main.cpp.obj	9ea4c535687ddfc3
+296	382	6932283766243848	testTest.exe	72b868ecc72d7eaf
